@@ -5,7 +5,7 @@ A simple Brainfck program that takes a single character input (from digits 0-9, 
 
 Why did I make this?
 
-I wanted to challenge myself to create something meaningful with love and caffeine (cuz why not💅🏻😄) before I turn 17 🎂 and i feel like i've not done enough in my 16 and it is giving me pressure in these months.
+I wanted to challenge myself to create something meaningful with love and caffeine (cuz why not💅🏻😄) before I turn 17 🎂 and i feel like i've not done enough in my 16 and it is giving me pressure in these months and still.
 
 I made this within a day i learnt brainfck language. 
 
