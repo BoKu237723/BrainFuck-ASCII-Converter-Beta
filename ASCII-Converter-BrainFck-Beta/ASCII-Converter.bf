@@ -1,5 +1,5 @@
 assume # means cell
-until plus 12 in this loop because ascii are less than 130
+
 the purpose of this program is to output one character to ascii
 assume user input is H in this program
 
